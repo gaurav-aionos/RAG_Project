@@ -1,32 +1,40 @@
-# 📚 StudyMate AI
-Your intelligent learning companion powered by **RAG (Retrieval-Augmented Generation)** and the **Groq API**.  
-Upload PDFs, ask questions, and get answers **only from your documents** — perfect for study notes, books, and research papers.
+# 📚 StudyMate AI  
+Your **AI-powered study assistant** that can read your PDFs and answer questions from them using **RAG (Retrieval-Augmented Generation)** and **Groq API**.
+
+This app is perfect for:
+- 📖 Students — Summarizing textbooks and notes.
+- 📄 Researchers — Quickly retrieving facts from papers.
+- 🧠 Self-learners — Getting instant answers from study material.
 
 ---
 
-## 🚀 Features
-- **Multi-PDF Upload** — Upload multiple PDFs at once.
-- **RAG-based Q&A** — Answers are based only on your uploaded documents.
-- **Groq API Integration** — Fast and efficient LLM responses.
-- **Persistent Chroma Vectorstore** — Stores embeddings for fast retrieval.
-- **Custom Themed UI** — Yellow & dark grey Streamlit design.
-- **Session Reset** — Clear all uploads and chat history instantly.
+## 🌟 Features
+- **📂 Multi-PDF Upload** — Upload multiple PDFs at the same time.
+- **🤖 AI-Powered Q&A** — Answers based **only** on your PDFs.
+- **⚡ Fast Responses** — Uses the Groq API for speed.
+- **💾 Persistent Vectorstore** — No need to reprocess unless you reset.
+- **🎨 Modern UI** — Custom yellow & dark grey theme.
+- **🧹 Reset Button** — Instantly clear uploads and chat history.
 
 ---
 
-## 📦 Tech Stack
-- **Python 3.9+**
-- [Streamlit](https://streamlit.io/)
-- [LangChain](https://www.langchain.com/)
-- [ChromaDB](https://www.trychroma.com/)
-- [Groq API](https://groq.com/)
-- [Sentence Transformers](https://www.sbert.net/)
+## 📋 Prerequisites
+Before you begin, make sure you have:
+1. **Python 3.9 or higher** installed  
+   👉 [Download Python](https://www.python.org/downloads/)
+2. **Pip** (Python package manager) — Comes with Python by default.
+3. **Groq API Key**  
+   - Sign up at [https://console.groq.com](https://console.groq.com)  
+   - Go to **API Keys** section  
+   - Copy your API key — you'll need it in step 5.
+4. **Basic command-line knowledge** (to run commands in Terminal/Command Prompt).
 
 ---
 
-## ⚙️ Setup Instructions
+## ⚙️ Step-by-Step Setup Guide
 
-### 1️⃣ Clone this Repository
+### 1️⃣ Clone the Repository
+Open **Terminal (Mac/Linux)** or **Command Prompt (Windows)** and run:
 ```bash
 git clone https://github.com/<your-username>/<your-repo-name>.git
 cd <your-repo-name>
