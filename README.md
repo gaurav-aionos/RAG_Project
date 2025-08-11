@@ -31,8 +31,6 @@ Before you begin, make sure you have:
 
 ---
 
-## ⚙️ Step-by-Step Setup Guide
-
 ### 1️⃣ Clone the Repository
 Open **Terminal (Mac/Linux)** or **Command Prompt (Windows)** and run:
 ```bash
