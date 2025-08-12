@@ -1,0 +1,32 @@
+# Python / project
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.sqlite3
+*.db
+*.log
+
+# Virtual env
+venv/
+env/
+.venv/
+pyvenv.cfg
+
+# Environment files / secrets
+.env
+*.env
+.env.*
+secrets.json
+*.pem
+*.key
+
+# IDEs / OS
+.vscode/
+.idea/
+.DS_Store
+
+# Others
+*.egg-info/
+dist/
+build/
