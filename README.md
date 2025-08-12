@@ -1,38 +1,44 @@
 # 📚 StudyMate AI  
-Your **AI-powered study assistant** that can read your PDFs and answer questions from them using **RAG (Retrieval-Augmented Generation)** and **Groq API**.
+Your **AI-powered study assistant** that reads your PDFs and answers questions using **RAG (Retrieval-Augmented Generation)** and **Groq API**.
 
 This app is perfect for:
-- 📖 Students — Summarizing textbooks and notes.
-- 📄 Researchers — Quickly retrieving facts from papers.
-- 🧠 Self-learners — Getting instant answers from study material.
+- 📖 **Students** — Get instant answers from textbooks and lecture notes
+- 📄 **Researchers** — Query multiple research papers simultaneously  
+- 🧠 **Self-learners** — Transform any PDF into an interactive learning experience
+- 💼 **Professionals** — Quickly extract information from reports and documents
 
----
+***
 
-## 🌟 Features
-- **📂 Multi-PDF Upload** — Upload multiple PDFs at the same time.
-- **🤖 AI-Powered Q&A** — Answers based **only** on your PDFs.
-- **⚡ Fast Responses** — Uses the Groq API for speed.
-- **💾 Persistent Vectorstore** — No need to reprocess unless you reset.
-- **🎨 Modern UI** — Custom yellow & dark grey theme.
-- **🧹 Reset Button** — Instantly clear uploads and chat history.
+## 🌟 Key Features
+- **📂 Multi-PDF Upload** — Process multiple PDFs simultaneously
+- **🤖 Intelligent Q&A** — AI answers based **exclusively** on your uploaded documents
+- **⚡ Lightning Fast** — Powered by Groq API for rapid responses
+- **🧠 Session-Based** — All processing happens in memory (no files saved permanently)
+- **🎨 Modern UI** — Clean dark blue and white professional theme
+- **🔄 Instant Reset** — Clear everything and start fresh with one click
+- **🔒 Privacy-First** — No data persistence, complete session isolation
 
----
+***
 
 ## 📋 Prerequisites
-Before you begin, make sure you have:
+Before you begin, ensure you have:
+
 1. **Python 3.9 or higher** installed  
    👉 [Download Python](https://www.python.org/downloads/)
-2. **Pip** (Python package manager) — Comes with Python by default.
-3. **Groq API Key**  
-   - Sign up at [https://console.groq.com](https://console.groq.com)  
-   - Go to **API Keys** section  
-   - Copy your API key — you'll need it in step 5.
-4. **Basic command-line knowledge** (to run commands in Terminal/Command Prompt).
+   
+2. **Git** (for cloning the repository)  
+   👉 [Download Git](https://git-scm.com/downloads)
+   
+3. **Groq API Key** (Free account available)  
+   - Sign up at [console.groq.com](https://console.groq.com)  
+   - Navigate to **API Keys** section  
+   - Generate and copy your API key
 
----
+4. **Basic command-line knowledge** to run terminal commands
+
+***
+
+## 🚀 Installation & Setup
 
 ### 1️⃣ Clone the Repository
 Open **Terminal (Mac/Linux)** or **Command Prompt (Windows)** and run:
-```bash
-git clone https://github.com/<your-username>/<your-repo-name>.git
-cd <your-repo-name>
