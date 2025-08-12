@@ -36,9 +36,3 @@ Before you begin, ensure you have:
 
 4. **Basic command-line knowledge** to run terminal commands
 
-***
-
-## 🚀 Installation & Setup
-
-### 1️⃣ Clone the Repository
-Open **Terminal (Mac/Linux)** or **Command Prompt (Windows)** and run:
