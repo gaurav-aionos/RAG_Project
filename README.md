@@ -34,5 +34,5 @@ Before you begin, ensure you have:
    - Navigate to **API Keys** section  
    - Generate and copy your API key
 
-4. **Basic command-line knowledge** to run terminal commands
+
 
