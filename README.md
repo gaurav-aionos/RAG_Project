@@ -34,5 +34,12 @@ Before you begin, ensure you have:
    - Navigate to **API Keys** section  
    - Generate and copy your API key
 
+***
+***
+
+## 🚀 How to Run
+Once you have completed the setup and configuration, run the application with:
+Run the command `python run.py` to start the application.
+
 
 
