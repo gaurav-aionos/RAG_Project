@@ -35,7 +35,6 @@ Before you begin, ensure you have:
    - Generate and copy your API key
 
 ***
-***
 
 ## 🚀 How to Run
 Once you have completed the setup and configuration, run the application with:
