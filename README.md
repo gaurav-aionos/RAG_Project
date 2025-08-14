@@ -38,7 +38,10 @@ Before you begin, ensure you have:
 
 ## 🚀 How to Run
 Once you have completed the setup and configuration, run the application with:
-Run the command `python run.py` to start the application.
+
+```bash
+python run.py
+```
 
 
 
